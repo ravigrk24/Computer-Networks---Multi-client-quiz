@@ -1,0 +1,10 @@
+Communication offered by TCP is , Full-duplex., Half-duplex., Semi-duplex., Byte by byte.
+In segment header sequence number and acknowledgement number field refers to, Byte number, Buffer number, Segment number, Byte by byte.
+The value of acknowledgement field in a segment defines, Number of previous bytes to receive, Total number of bytes to receive, Number of next bytes to receive, Sequence of zero’s and one’s
+The packet sent by a node to the source to inform it of congestion is called, Explicit, Discard, Choke, Backpressure
+Which of the following field in IPv4 datagram is not related to fragmentation?, Flags, Offset, TOS, Identifier
+The data field can carry which of the following?, TCP segemnt, UDP segment, ICMP messages, None of the mentioned
+IPv6 doesnot use _________ type of address, Broadcast, Multicast, Anycast, None of the mentioned
+The _________ field determines the lifetime of IPv6 datagram, Hop limit, TTL, Next header, None of the mentioned
+What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.224 subnet mask?, 15, 20, 25, 30
+If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25 what would be the valid subnet address of this host?, 172.16.112.0, 172.16.0.0, 172.16.96.0, 172.16.255.0
